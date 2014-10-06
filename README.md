@@ -1,5 +1,8 @@
+
 Homebrew-HTTPd
 ==============
+
+**Note:** This repository is not maintained anymore. The Homebrew project now has formulas for Apache 2.4 and FastCGI in the [homebrew/apache](https://github.com/Homebrew/homebrew-apache) keg. I suggest you use those since they're more up-to-date and have a more complete set of options.
 
 Apache HTTP Server formulae repo for Homebrew
 
